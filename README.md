@@ -3,7 +3,7 @@
 # **Olá!** 👋
 #### 📂 Eu me chamo Kauã Lima, sou apaixonado por tecnologia da informação! Embora tenha começado na área de Eletrotécnica, minha jornada me levou para o mundo da programação, onde exploro desde o desenvolvimento fullstack até ciência de dados. Atualmente, estou cursando Técnico em Automação Industrial e Tecnólogo em Mecatrônica Industrial no IFCE, Campus Pecém.
 
-#### 💻 Tenho habilidades em Java, Python e C++, além de experiência em projetos com Arduino e ESP. No entanto, meu foco vai além de hardware: estou sempre buscando evoluir no desenvolvimento de aplicações web, integrações com sistemas e no uso de dados para criar soluções inteligentes e inovadoras.
+#### 💻 Tenho habilidades em Java, Python, C e C++, além de experiência em projetos com _Sistemas Embarcados_. No entanto, meu foco vai além de hardware: estou sempre buscando evoluir no desenvolvimento de aplicações web, integrações com sistemas e no uso de dados para criar soluções inteligentes e inovadoras.
 
 #### 📘 Nos momentos livres, continuo estudando programação e novas tecnologias, sempre em busca de desafios que me permitam unir a inovação com o que há de mais moderno no mercado.
 #
